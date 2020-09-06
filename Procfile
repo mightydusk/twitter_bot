@@ -1,1 +1,1 @@
-worker : python learntweetsapi_bot.py
+worker : python learntweets_bot.py
